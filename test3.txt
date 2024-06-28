@@ -1,3 +1,0 @@
-this is a text3.txt file
-
-hello test3
